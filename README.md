@@ -1,5 +1,5 @@
-# Hello World!, I'm Caio, a Brazilian Web Developer:
-## Passionate about technology, I focus on building scalable web applications, using tools like React, Next.js, and TypeScript. Always learning and exploring new technologies to deliver efficient and high-quality solutions. 
+# 👋🏻 Hello World!, I'm Caio, a Brazilian Web Developer
+**🚀 Passionate about technology, I focus on building scalable web applications, using tools like React, Next.js, and TypeScript. Always learning and exploring new technologies to deliver efficient and high-quality solutions.**
 
 
 ## 🌐 Socials:
